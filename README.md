@@ -1,5 +1,5 @@
 
-# Project Title
+# Hospital landing page
 
 * This is a Hospital Landing-Page given by PW Skills as an project for practice html and css skills.
 
